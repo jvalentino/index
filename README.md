@@ -123,13 +123,14 @@ The index for all development content, from YouTube to Github
   - ![github-mark-white](./wiki/github-mark-16.png) [Open Source Appointment Scheduling System](https://github.com/jvalentino/clothes-closet-wiki)
   - ![github-mark-white](./wiki/github-mark-16.png) [PHP-Nuxt-MySQL-Redis-EKS](https://github.com/jvalentino/example-system-arch-php-nuxt-mysql-redis-k8s-aws)
 - Large Examples
-  - ![github-mark-white](./wiki/github-mark-16.png) [2-Tier](https://github.com/jvalentino/sys-alpha-bravo)
-  - ![github-mark-white](./wiki/github-mark-16.png) [2-Tier: Load Balancing](https://github.com/jvalentino/sys-charlie)
-  - ![github-mark-white](./wiki/github-mark-16.png) [2-Tier: DB Cluster with Load Balancing](https://github.com/jvalentino/sys-delta)
-  - ![github-mark-white](./wiki/github-mark-16.png) [3-Tier](https://github.com/jvalentino/sys-echo-rest)
-  - ![github-mark-white](./wiki/github-mark-16.png) [3-Tier: Data Warehousing](https://github.com/jvalentino/sys-foxtrot)
-  - ![github-mark-white](./wiki/github-mark-16.png) [N-Tier: Cloud, Containers, Observability](https://github.com/jvalentino/sys-golf)
-  - ![github-mark-white](./wiki/github-mark-16.png) [CQRS: Microservices on k8s](https://github.com/jvalentino/sys-juliet)
+  - 2-Tier: https://github.com/jvalentino/sys-alpha-bravo
+  - 2-Tier with Load Balancing: https://github.com/jvalentino/sys-charlie
+  - 2-Tier with Load Balancing and Database Clustering: https://github.com/jvalentino/sys-delta
+  - 3-Tier: https://github.com/jvalentino/sys-echo-rest
+  - 3-Tier with Data Warehousing: https://github.com/jvalentino/sys-foxtrot
+  - N-Tier on Kubernetes: https://github.com/jvalentino/sys-golf
+  - Microservices on Kubernetes: https://github.com/jvalentino/sys-juliet
+  - CQRS on k8s: https://github.com/jvalentino/sys-kilo
 
 # Courses
 
