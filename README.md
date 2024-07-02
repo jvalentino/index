@@ -3,7 +3,7 @@ The index for all development content, from YouTube to Github
 
 # Setup
 
-- ![github-mark-white](./wiki/github-mark-16.png) [All-in-One Setup (Mac)](https://github.com/jvalentino/setup-automation)
+- ![github-mark-white](./wiki/github-mark-16.png) [All-in-One Setup](https://github.com/jvalentino/setup-automation)
 - ![github-mark-white](./wiki/github-mark-16.png) [ArgoCD Setup](https://github.com/jvalentino/setup-argocd)
 - ![github-mark-white](./wiki/github-mark-16.png) [Kubernetes Setup (minikube)](https://github.com/jvalentino/setup-kubernetes)
 - ![youtube](./wiki/youtube.png) [Github / Source Control Basics](https://www.youtube.com/watch?v=Dom8jcRqEX0)
@@ -118,19 +118,34 @@ The index for all development content, from YouTube to Github
 
 # Architecture
 
+- ![youtube](./wiki/youtube.png) [Eventing Architectures 101 (Full-Video)](https://youtu.be/jP-_lJhF1IU)
+  - ![youtube](./wiki/youtube.png) [(01) Introduction to Eventing](https://youtu.be/Ulr4ff857pw)
+  - ![youtube](./wiki/youtube.png) [(02) Pub/Sub+](https://youtu.be/5IzAu1IpyZk)
+  - ![youtube](./wiki/youtube.png) [(03) CAP Theorem](https://youtu.be/uXmARvuMaSc)
+  - ![youtube](./wiki/youtube.png) [(04) Eventual Consistency: ATM Example](https://youtu.be/HRuruThRnfo)
+  - ![youtube](./wiki/youtube.png) [(05) CQRS](https://youtu.be/qleivzM0VnA)
+  - ![youtube](./wiki/youtube.png) [(06) Domain Driven Design](https://youtu.be/dMTkwV5R-6M)
+  - ![youtube](./wiki/youtube.png) [(07) Putting it Together](https://youtu.be/V8Tzh5BReFg)
+  - ![youtube](./wiki/youtube.png) [(08) Event Bus Solutions](https://youtu.be/UWPmWCU_X4U)
+  - ![youtube](./wiki/youtube.png) [(09) Kafka Data Strategy: Default](https://youtu.be/UTfUOKmQ66E)
+  - ![youtube](./wiki/youtube.png) [(10) Kafka Data Strategy: Custom](https://youtu.be/g8TIqVeKbD0)
+  - ![youtube](./wiki/youtube.png) [(11) Kafka Consumer Groups](https://youtu.be/a5oBYtB_2C4)
+  - ![youtube](./wiki/youtube.png) [(12) Kafka Architecture](https://youtu.be/s_Ek7CXsI0s)
+
 - ![github-mark-white](./wiki/github-mark-16.png) [Theory: 2-Tier to CQRS](https://github.com/jvalentino/clothes-closet-wiki?tab=readme-ov-file#architectural-theory)
 - Small Examples
   - ![github-mark-white](./wiki/github-mark-16.png) [Open Source Appointment Scheduling System](https://github.com/jvalentino/clothes-closet-wiki)
   - ![github-mark-white](./wiki/github-mark-16.png) [PHP-Nuxt-MySQL-Redis-EKS](https://github.com/jvalentino/example-system-arch-php-nuxt-mysql-redis-k8s-aws)
 - Large Examples
-  - 2-Tier: https://github.com/jvalentino/sys-alpha-bravo
-  - 2-Tier with Load Balancing: https://github.com/jvalentino/sys-charlie
-  - 2-Tier with Load Balancing and Database Clustering: https://github.com/jvalentino/sys-delta
-  - 3-Tier: https://github.com/jvalentino/sys-echo-rest
-  - 3-Tier with Data Warehousing: https://github.com/jvalentino/sys-foxtrot
-  - N-Tier on Kubernetes: https://github.com/jvalentino/sys-golf
-  - Microservices on Kubernetes: https://github.com/jvalentino/sys-juliet
-  - CQRS on k8s: https://github.com/jvalentino/sys-kilo
+  - ![github-mark-white](./wiki/github-mark-16.png) 2-Tier: https://github.com/jvalentino/sys-alpha-bravo
+  - ![github-mark-white](./wiki/github-mark-16.png) 2-Tier with Load Balancing: https://github.com/jvalentino/sys-charlie
+  - ![github-mark-white](./wiki/github-mark-16.png) 2-Tier with Load Balancing and Database Clustering: https://github.com/jvalentino/sys-delta
+  - ![github-mark-white](./wiki/github-mark-16.png) 3-Tier: https://github.com/jvalentino/sys-echo-rest
+  - ![github-mark-white](./wiki/github-mark-16.png) 3-Tier with Data Warehousing: https://github.com/jvalentino/sys-foxtrot
+  - ![github-mark-white](./wiki/github-mark-16.png) N-Tier on Kubernetes: https://github.com/jvalentino/sys-golf
+  - ![github-mark-white](./wiki/github-mark-16.png) Microservices on Kubernetes: https://github.com/jvalentino/sys-juliet
+  - ![github-mark-white](./wiki/github-mark-16.png) CQRS on k8s: https://github.com/jvalentino/sys-kilo
+  - ![youtube](./wiki/youtube.png)[Using Kafka and Cassandra with Spring Boot](https://youtu.be/vWM4kFpm7DE)
 
 # Courses
 
@@ -140,4 +155,10 @@ The index for all development content, from YouTube to Github
 - ![udemy](./wiki/udemy.png) [Building Java using Maven on Jenkins](https://www.udemy.com/course/building-java-using-maven-on-jenkins/?referralCode=259AFCFB1B2DB162ADB7)
 - ![youtube](./wiki/youtube.png) [Navigating a Career in Software Development](https://www.youtube.com/watch?v=vVKyYlEht6s&list=PLzNWrVFxKLyKWJkaBOrA1-ZJPIKs1cfG5)
 - ![udemy](./wiki/udemy.png) [Navigating a Career in Software Development](https://www.udemy.com/course/navigating-a-career-in-software-development/?referralCode=8C8B4F8E4901A3B0C048)
+- ![demy](./wiki/udemy.png) [Mastering Software Dev: Lead, Engineer, and Ensure Quality](https://www.udemy.com/course/mastering-software-dev-lead-engineer-and-ensure-quality/?referralCode=CF0FE0D3F7CCBAB98368)
+- ![udemy](./wiki/udemy.png) [A Day in the Life of a Quality Engineer](https://www.udemy.com/course/a-day-in-the-life-of-a-quality-engineer/?referralCode=0961C228435950050C94)
+- ![udemy](./wiki/udemy.png) [A Day in the Life of a Lead Software Developer](https://www.udemy.com/course/a-day-in-the-life-of-a-lead-software-developer/?referralCode=260EE304552AAD4AE594)
+- ![udemy](./wiki/udemy.png) [A Day in the Life of a Software Developer](https://www.udemy.com/course/a-day-in-the-life-of-a-software-developer/?referralCode=DB85999CE4BDD579FE5B)
+- ![udemy](./wiki/udemy.png) [Spring Boot with OpenAPI, Cassandra, Kafka, and Maven](https://www.udemy.com/course/spring-boot-with-openapi-cassandra-kafka-and-maven/?referralCode=982F4AF57C458A36F53F)
+- ![udemy](./wiki/udemy.png) [Advanced Event-Driven Architectures for Web-Scale Systems](https://www.udemy.com/course/advanced-event-driven-architectures-for-web-scale-systems/?referralCode=47E68CC9A4A91FF5F233)
 
